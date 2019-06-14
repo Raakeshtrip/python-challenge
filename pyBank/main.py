@@ -5,7 +5,7 @@ import string
 
 # Create the path of the file
 csvpath=os.path.join('..','Resources','budget_data.csv')
-csvpathwrite=os.path.join('..','Resources','budget_data_write.csv')
+csvpathwrite=os.path.join('..','Resources','budget_data_write.txt')
 #Declare Varibled 
 total=0
 totalmonth=0
